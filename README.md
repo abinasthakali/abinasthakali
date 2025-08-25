@@ -5,7 +5,6 @@
 
 
 ## 📫 Let's Connect
-
 Feel free to connect or reach out if you'd like to collaborate, or just say hi!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abinas-thakali-b27241231/)  
