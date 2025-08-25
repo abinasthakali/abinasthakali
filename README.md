@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Abinas Thakali
 
----
 
 ## 📫 Let's Connect
 
